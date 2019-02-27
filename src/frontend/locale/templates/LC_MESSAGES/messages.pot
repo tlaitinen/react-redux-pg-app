@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: src/frontend/containers/app.tsx:99
+msgid "(copyright attribution here)"
+msgstr ""
+
+#: src/frontend/containers/navigation.tsx:34
+#: src/frontend/containers/navigation.tsx:59
+msgid "Account"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:158
+msgid "Add New User"
+msgstr ""
+
+#: src/frontend/containers/edit-user-group.tsx:80
+msgid "Add New User Group"
+msgstr ""
+
+#: src/frontend/components/archive-button.tsx:20
+msgid "Archive"
+msgstr ""
+
+#: src/frontend/containers/set-password-modal.tsx:73
+msgid "Close Window"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:75
+#: src/frontend/containers/login.tsx:62
+#: src/frontend/containers/users-list.tsx:57
+msgid "Email"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:122
+msgid "English"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:79
+msgid "Enter email"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:95
+msgid "Enter first name"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:105
+msgid "Enter last name"
+msgstr ""
+
+#: src/frontend/containers/edit-user-group.tsx:68
+msgid "Enter name"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:123
+msgid "Finnish"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:91
+#: src/frontend/containers/users-list.tsx:55
+msgid "First Name"
+msgstr ""
+
+#: src/frontend/containers/users-list.tsx:58
+msgid "Group"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:127
+msgid "Group Admin"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:111
+msgid "Language"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:101
+#: src/frontend/containers/users-list.tsx:56
+msgid "Last Name"
+msgstr ""
+
+#: src/frontend/containers/edit-user-group.tsx:65
+#: src/frontend/containers/user-groups-list.tsx:47
+msgid "Name"
+msgstr ""
+
+#: src/frontend/containers/users.tsx:36
+msgid "New User"
+msgstr ""
+
+#: src/frontend/containers/users.tsx:67
+msgid "New User Group"
+msgstr ""
+
+#: src/frontend/components/yes-no-radio.tsx:18
+msgid "No"
+msgstr ""
+
+#: src/frontend/containers/login.tsx:70
+#: src/frontend/containers/set-password-modal.tsx:49
+msgid "Password"
+msgstr ""
+
+#: src/frontend/containers/set-password-modal.tsx:59
+msgid "Password Again"
+msgstr ""
+
+#: src/frontend/actions/requests-saga.ts:14
+msgid "Password set!"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:142
+#: src/frontend/containers/set-password-modal.tsx:43
+#: src/frontend/containers/set-password-modal.tsx:88
+msgid "Set Password"
+msgstr ""
+
+#: src/frontend/containers/user-groups-list.tsx:39
+msgid "Show archived user groups"
+msgstr ""
+
+#: src/frontend/containers/users-list.tsx:44
+msgid "Show archived users"
+msgstr ""
+
+#: src/frontend/containers/login.tsx:56
+#: src/frontend/containers/login.tsx:83
+msgid "Sign In"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:146
+msgid "Sign Out"
+msgstr ""
+
+#: src/frontend/containers/user-groups-list.tsx:31
+msgid "Type to search user groups"
+msgstr ""
+
+#: src/frontend/containers/users-list.tsx:36
+msgid "Type to search users"
+msgstr ""
+
+#: src/frontend/components/archive-button.tsx:20
+msgid "Unarchive"
+msgstr ""
+
+#: src/frontend/containers/edit-user.tsx:85
+msgid "User Group"
+msgstr ""
+
+#: src/frontend/containers/navigation.tsx:32
+#: src/frontend/containers/users.tsx:60
+msgid "User Groups"
+msgstr ""
+
+#: src/frontend/containers/edit-user-group.tsx:75
+#: src/frontend/containers/navigation.tsx:30
+#: src/frontend/containers/navigation.tsx:55
+#: src/frontend/containers/users.tsx:57
+msgid "Users"
+msgstr ""
+
+#: src/frontend/components/yes-no-radio.tsx:14
+msgid "Yes"
+msgstr ""

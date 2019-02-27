@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: src/backend/db/users.ts:46
+msgid "Could not select user after inserting it"
+msgstr ""
+
+#: src/backend/db/user-groups.ts:34
+msgid "Could not select user group after inserting it"
+msgstr ""
+
+#: src/backend/db/user-groups.ts:18
+msgid "Only admin can add user groups"
+msgstr ""
+
+#: src/backend/db/users.ts:27
+msgid "Only Admin can create Admin users"
+msgstr ""
+
+#: src/backend/db/user-groups.ts:58
+msgid "Only admin can modify user groups"
+msgstr ""
+
+#: src/backend/db/users.ts:24
+msgid "Only Admin or GroupAdmin may add users"
+msgstr ""
+
+#: src/backend/db/users.ts:56
+msgid "Only Admin or GroupAdmin may modify other users"
+msgstr ""
+
+#: src/backend/db/user-groups.ts:26
+msgid "Parent user group not found when inserting user group"
+msgstr ""
+
+#: src/backend/db/user-groups.ts:66
+msgid "Parent user group not found when modifying user group"
+msgstr ""
+
+#: src/backend/db/users.ts:33
+msgid "User already exists"
+msgstr ""
+
+#: src/backend/db/users.ts:81
+msgid "User group not found when modifying user"
+msgstr ""
+
+#: src/backend/db/users.ts:20
+msgid "User has no user group"
+msgstr ""
+
+#: src/backend/db/users.ts:60
+#: src/backend/db/users.ts:72
+msgid "User not found"
+msgstr ""

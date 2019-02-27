@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "noEmit": true,
+        "esModuleInterop": true,
+        "noImplicitAny": true,
+        "strict": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+				"noUnusedLocals": true,
+				"noUnusedParameters": true,
+        "downlevelIteration": true,
+				"lib": [
+					"es2017",
+					"dom"
+				]
+    },
+    "include": [
+        "src/**/*"
+    ],
+		"exclude": [
+        "src/frontend/@types/jed/*",
+        "src/frontend/@types/base64url/*",
+        "src/frontend/@types/filename-reserved-regex/*"
+		]
+}
