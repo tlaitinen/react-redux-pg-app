@@ -27,9 +27,11 @@ migrations.
 
 ## Screenshots
 
- * ![users.png](https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/users.png)
- * ![edit-user.png](https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/edit-user.png)
- * ![edit-user-group.png](https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/edit-user-group.png)
+<img src="https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/users.png" width=300>
+
+<img src="https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/edit-user.png" width=300>
+
+<img src="https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/edit-user-group.png" width=300>
 
 ## Quick start
 
