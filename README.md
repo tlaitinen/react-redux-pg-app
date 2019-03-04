@@ -11,15 +11,15 @@ permissions which enables them to create other users in the same user group.
 Group admin users may not create other user groups, though. A user may change
 password and language, and update email, first name and last name.
 
-The backend uses (koa)[https://koajs.com/] to handle HTTP requests,
-(io-ts)[https://github.com/gcanti/io-ts] to validate request bodies and query
-strings, and (pg-promise)[https://github.com/vitaly-t/pg-promise] to run
+The backend uses [koa](https://koajs.com/) to handle HTTP requests,
+[io-ts](https://github.com/gcanti/io-ts) to validate request bodies and query
+strings, and [pg-promise](https://github.com/vitaly-t/pg-promise) to run
 SQL queries.
 
-The frontend uses (React)[https://reactjs.org/] and (React
-Bootstrap)[https://react-bootstrap.github.io/] to render HTML and
-(Redux)[https://redux.js.org/] and 
-(Redux Saga)[https://github.com/redux-saga/redux-saga] for managing client-side state.
+The frontend uses [React](https://reactjs.org/) and 
+[React Bootstrap](https://react-bootstrap.github.io/) to render HTML and
+[Redux](https://redux.js.org/) and 
+[Redux Saga](https://github.com/redux-saga/redux-saga) for managing client-side state.
 
 The sample application uses
 [db-migrate](https://github.com/db-migrate/node-db-migrate) for database
