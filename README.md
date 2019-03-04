@@ -1,8 +1,10 @@
 # react-redux-pg-app
 
-`react-redux-pg-app` is battle tested off-the-shelf production ready template for building web applications implementing
-many essential key application key requirements such as: could deployment, database migrations and localization.
-
+`react-redux-pg-app` is an opinionated web application template built on React,
+Redux and PostgreSQL with following features:
+ * client sessions using JWT 
+ * user group and user management
+ * i18n support
 
 ## Quick start
 
