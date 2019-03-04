@@ -25,6 +25,11 @@ The sample application uses
 [db-migrate](https://github.com/db-migrate/node-db-migrate) for database
 migrations.
 
+## Screenshots
+
+ * ![users.png](https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/users.png)
+ * ![edit-user.png](https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/edit-user.png)
+ * ![edit-user-group.png](https://github.com/tlaitinen/react-redux-pg-app/raw/master/screenshots/edit-user-group.png)
 
 ## Quick start
 
