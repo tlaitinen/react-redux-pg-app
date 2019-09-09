@@ -39,37 +39,16 @@ migrations.
 git clone https://github.com/tlaitinen/react-redux-pg-app.git
 npm install
 ./scripts/init-db-empty.sh
-npm run init
 npm run dev-backend
-npm run dev-frontend # in another window
 ```
 
-Navigate to `http://localhost:3000`
+In another terminal:
+```bash
+source ./scripts/postgres-env.sh
+ADMIN_EMAIL=user@example.com ADMIN_PASSWORD=password npm run init 
+npm run dev-frontend
+```
 
-## Development Envionment
+Navigate to `http://localhost:8080`
 
-### Local development
-
-
-### Local Docker
-
-
-## Deployment
-
-## Development
-
-### Database Schema Management
-
-1. Create migration
-
-`./node_modules/db-migrate/bin/db-migrate create migration-name --sql-file`
-
-2. Execute migration
-
-`./node_modules/db-migrate/bin/db-migrate up`
-
-### Localization
-
-
-### Unit Testing
 
