@@ -60,7 +60,7 @@
     "koa-router": "^7.4.0",
     "koa-send": "^5.0.0",
     "koa-static": "^5.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "pg-promise": "^8.4.6",
     "po2json": "^0.4.5",
     "react": "^16.5.2",
